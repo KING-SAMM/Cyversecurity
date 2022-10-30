@@ -57,3 +57,63 @@ THE CIA TRIAD
 
 This triad is the basis for creating a wholistic security plan to protect all of your orgaanisation's critical and sensitive assets.
 ```
+
+
+GOVERNANCE, RISK MANAGEMENT AND COMPLIANCE (GRC)
+------------------------------------------------
+```
+GRC of every organisation is different, and varies based on the type of organisation It depends on the organisation's:
+1. Mission
+2. Industry
+3. Size
+4. Culture
+5. Legal regulations
+
+The responsibility of any GRC program is to protect assets and operations, including IT infrastructure and information.
+```
+
+
+GOVERNANCE
+------------------------------------------
+```
+Governance is the responsibility of the Board of Directors and senior management of an organisation.
+
+Goals of Governance
+    - Provide strategic direction
+    - Ensure that objectives are achieved
+    - Ascertain that the risk is managed properly
+    - Verify that the resources are used responsibly
+```
+
+
+RISK MANAGEMENT
+------------------------------------------
+```
+Risk Management is the process by which the organisation manages risk to acceptable levels. 
+
+Risk management requires the development implementation of internal controls to manage and mitigate risks throughout the organisation, including:
+1. financial and investment risk
+2. physical risk, and
+3. cyber risk
+```
+
+
+COMPLIANCE
+------------------------------------------
+```
+Compliance is the act of adhering to, and the ability to demonstrate adherance to, mandatory requirements defined by laws and regulations.
+
+It also includes voluntary requirements resulting from contractual obligations and internal policies
+```
+
+
+APPROACHES TO CYBERSECURITY
+------------------------------------------
+```
+1. Compliance-based cybersecurity
+    - This approach relies on regulations or standards to determine the security implementation
+2. Risk-based cybersecurity
+    - This approach relies on identifying the unique risk a particular organisation faces and designing and implementing security controls to address the risk that you find.
+3. Ad-hoc Approach
+    - Implements security with no particular rationale or criteria
+```
