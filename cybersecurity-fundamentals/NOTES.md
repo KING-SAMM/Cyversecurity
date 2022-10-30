@@ -117,3 +117,46 @@ APPROACHES TO CYBERSECURITY
 3. Ad-hoc Approach
     - Implements security with no particular rationale or criteria
 ```
+
+
+CYBERSECURITY KEY TERMS
+------------------------------------------
+```
+1. Vulnerability
+        - refers to a flaw in the system that can leave it open to attack
+2. Threat
+        - something that may or may not happen, but have the potential to cause a serious damage. Threats can lead to attacks on computer systems, networks, etc
+3. Threat Agent
+        - is used to indicate an individual or group that can manifest a thteat
+4. Risk
+        - the potential for loss, damage or destruction of an asset as a result of a threat exploiting a vulnerability
+5. Countermeasure or control
+        - an action, device, procedure or technique that reduces a threat, a vulnerability or an attack by eliminating or preventing it by minimizing the harm it can cause, or by discovering and reporting it so that corrective action can be taken
+6. Assets
+        - something of either tangible or intangible that is worth protecting including people, information, infrastructure, finance and reputation
+7. Residual Risk
+        - remaining risk after management has implemented risk mitigation or risk response
+8. Inherent Risk
+        - the risk level or exposure without taking into account the actions that management has taken or will take
+```
+
+
+THREAT ACTORS, ATTACKS AND MITIGATION
+------------------------------------------
+```
+A Threat Actor or Malicious Actor is a person or entity that is responsible for an event or incident that impacts or has the potential to impact the safety or security of another entity.
+```
+
+
+THREAT ACTOR CATEGORIES
+------------------------------------------
+```
+Script Kiddies
+Hacktivist
+Organised crime
+Nation States APT (Advanced Persisten Threats)
+Insiders 
+Competitors
+```
+
+
