@@ -160,3 +160,55 @@ Competitors
 ```
 
 
+THREATS TO A SYSTEM
+------------------------------------------
+```
+The things to consider are:
+
+1. Natural environment threats
+2. Supply system threats
+3. Mam-made threats
+4. Socio-political threats
+```
+
+
+MALWARE
+------------------------------------------
+```
+Malware is any software that is intentionally designed to cause damage to a computer, a server, a client or a computer network
+
+A malware is a set of instructions that run on your computer and make your system do something that an attacker wants it to do.
+```
+
+
+TYPES OF MALWARE
+------------------------------------------
+```
+1. Virus 
+        - a malicious code that replicates by attaching itself to an executable code
+2. Trojans
+        - programs that claim to perform one function but do another, typically malicious
+3. Logic Bomb
+        - malicious code that infect a system and lie dormant until they are triggered by one or more conditions, such as time, program launch, website logon etc
+4. Adware
+        - is a software that displays endless ads and pop-up windows that could be potentially dangerous for your device
+5. Rootkit
+        - is designed to modify the operating system's operations to facilitate non-standard functionality
+6. Spyware
+        - is a software aimed to steal personal or organisational information and relay it to advertisers or other interested parties
+7. Ransomeware 
+        - attempts to extort money from the user by infecting and taking control of the victim's machine.
+
+        It is installed when user opens malicious email attachment, click malicious email link or visit malicious website.
+8. Backdoor 
+        - program(s) that attacker installs after gaining unauthorized access to a system, to ensure they continue to have unrestricted remote access to the system, even after their initial access method is discovered or blocked
+9. Worms
+        - self-replicating lines of code designed to penetrate computer systems
+```
+
+
+MALWARE ATTACKS
+------------------------------------------
+```
+```
+
